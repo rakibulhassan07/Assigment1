@@ -132,3 +132,56 @@
     font-size: 20px;
     border: 0;
 }
+.banner4{
+    max-width: 1100px;
+}
+.circleimg{
+    width: 400px;
+    height: 400px;    
+    border-radius: 460px;
+    border: 15px solid #F00;
+    padding: 20px;
+   
+}
+.img{
+    padding: 16px;
+}
+.bannerbackground{
+    display:flex ;
+    justify-content: space-between;
+}
+.banner4-text1{
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;   
+}
+.banner4-text2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 10px; 
+}
+.banner4-text3{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;   
+}
+.banner4-text4{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700; 
+    
+}
+.banner4-text5{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;    
+}
+
