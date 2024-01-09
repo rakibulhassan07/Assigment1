@@ -76,12 +76,12 @@
     font-family: Merriweather;
     font-size: 64px;
     font-weight: 900;
-    padding-left: 100px;
-    padding-top: 100px;   
+      padding-left: 100px;  
+     
 }
 .banner2-text2{
     color: rgba(255, 255, 255, 0.80);
-    padding-left: 100px;
+     padding-left: 100px; 
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
@@ -92,7 +92,17 @@
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
-    padding-left: 120px;
+    padding-left: 120px; 
+}
+
+.full-banner{
+    display: flex;
+    
+}
+.newyear{
+    padding-right: 150px;
+    margin-top: 100px;
+
 }
 #bannerdesign2{
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
@@ -100,6 +110,7 @@
     width: 1100px;
    height: 500px;
 }
+
 .style{
     color: #F00;
     text-align: center;
@@ -184,4 +195,173 @@
     font-size: 20px;
     font-weight: 400;    
 }
+.Texts{
+   margin-top: 50px;
+}
 
+.banner-image{
+    display: flex;
+
+}
+.banner-img2{
+    padding-left: 115px;
+    margin-top: 100px;
+    
+}
+
+.banner6{
+   
+    margin-top: 10px;
+    height: 800px;
+    background-image: url('../images/Rectangle\ 2.png');
+
+    background-repeat: no-repeat;
+    border-radius: 16px 0px 16px 16px;
+    background-position: bottom ;
+
+}
+.text1{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+.text2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 5px;
+       
+}
+.holiday{
+    color: #F00;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.text3{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 160% */    
+}
+.banner7{
+    
+    max-width: 1100px;
+}
+.banner7-text1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.banner7-text2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;   
+}
+.banner-text3{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+}
+.banner7{
+    margin-top: 100px;   
+}
+.banner7-text1{
+    padding-top: 20px;
+}
+.img1{
+    margin-right: 10px;
+    margin-bottom: 10px
+}
+.img2{
+    margin-right: 10px;
+    margin-bottom: 10px
+}
+.img3{
+    margin-right: 10px;
+    margin-bottom: 10px
+}
+.img4{
+    margin-right: 10px;
+    margin-bottom: 10px
+}
+.img5{
+    margin-right: 10px;
+    margin-bottom: 10px
+}
+.img6{
+    margin-right: 10px;
+    margin-bottom: 10px
+}
+.email-img{
+    padding: 80px 450px 0px 450px;
+
+}
+.banner8{
+    margin-top: 50px;
+    border-radius: 16px;
+    margin-bottom: 50px;
+    background-color: rgba(255, 0, 0, 0.05);
+}
+.banner8-text1{
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+ 
+}
+.banner8-text2{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.inputemail{
+    border-radius: 50px;
+background: #FFF;
+
+color: rgba(7, 2, 17, 0.30);
+
+
+font-family: Inter;
+font-size: 18px;
+
+font-weight: 400;
+padding: 10px 0px 10px 10px;
+margin-left: 400px;
+border: 0;
+}
+.submit{
+     border-radius: 0px 50px 50px 0px;
+     background: #F00;
+     color: #FFF;
+     text-align: center;
+     font-family: Inter;
+     font-size: 20px;
+     padding: 10px 20px;
+
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+border: 0;
+}
